@@ -23,7 +23,7 @@ Prediction: The trained model is used to predict whether a person is wearing a f
 
 Results
 
-The CNN model achieved a test accuracy of [insert accuracy] on the test dataset, indicating its effectiveness in face mask detection.
+The CNN model achieved a test accuracy of 91% on the test dataset, indicating its effectiveness in face mask detection.
 
 How to Use
 
